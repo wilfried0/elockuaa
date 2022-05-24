@@ -84,8 +84,8 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>elockuaa</finalName>
 	</build>
-
 
 	<dependencyManagement>
 		<dependencies>
